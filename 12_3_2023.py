@@ -111,7 +111,13 @@ sum = 0
 for part_number in part_number_list:
     sum += int(part_number)
 print(sum)
-        
+
+### PART 2
+
+# 2d binary array of whether it's a number
+# needs two non-horizontally adjacent numbers in order to be considered a gear part 
+
+
 
 
 
